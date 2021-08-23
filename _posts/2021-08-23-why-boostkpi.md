@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Boost KPI ?"
+title:  "Why BoostKPI?"
 categories: [ Overview ]
 image: assets/images/Boostkpi-overview.png
 beforetoc: "Detect anomalies with root causes. Across all subsets of your data."
