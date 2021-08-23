@@ -624,7 +624,10 @@ body.active-side {
     font-size:15px;
     background:#fff;
 }
-
+.annotation-image {
+    font-size: 10px;
+    color: #aaaaaa;
+}
 //responsive tweaks
 @media (min-width: 768px) {
     .container, .container-sm, .container-md, .container-lg {
