@@ -1,5 +1,20 @@
-# Memoirs Jekyll Theme
+## BoostKPI Blog ##
 
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+Clone Repo and from the root of your downloaded/cloned folder, open your terminal and install:
 
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+> gem install bundler
+
+Then
+
+> bundle install
+
+Blog options are in  `_config.yml`.
+
+To run the blog locally
+
+> bundle exec jekyll serve --watch
+
+
+
+
+
