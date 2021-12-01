@@ -4,8 +4,8 @@
 
 $brown: #B59F62;
 $teal: #40FFDC;
-$black: #111;
-$boostkpi: #C96731;
+$black: #666666;
+$boostkpi: #F07830;
 $primary: $boostkpi;
 $dark:    $black;
 $white: #FFFFFF;
@@ -21,7 +21,7 @@ $enable-rounded: false;
 
 // general
 body, input, button, select, optgroup, textarea {
-    font-family:Sen;
+    font-family: "Noto Sans", sans-serif;
 }
 body {
     line-height:1.7;
