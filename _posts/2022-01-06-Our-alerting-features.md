@@ -2,7 +2,7 @@
 layout: post
 title:  "Alerting options"
 categories: [ Overview ]
-image: assets/images/Add-to-cart.png
+image: assets/images/Boostkpi-overview.png
 beforetoc: ""
 toc: false
 ---
