@@ -15,7 +15,7 @@ An anomaly is a time period where a KPI value has an unusual deviation. BoostKPI
 
 ## An example dataset
 
-We will use the following example dataset to help demonstrate the value of BoostKPI's alerting features.
+We will use the following example dataset to help demonstrate example uses of BoostKPI's alerting features.
 
 | Time               | Country | Operating system | Spend  | Clicks |
 | :----------------- | :------ | :--------------- | :----- | :----- |
