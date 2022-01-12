@@ -2,7 +2,7 @@
 layout: post
 title:  "BoostKPI's alerting features"
 categories: [ Overview ]
-image: assets/images/Boostkpi-overview.png
+image: assets/images/Warning-rafiki.svg
 beforetoc: ""
 toc: false
 ---
