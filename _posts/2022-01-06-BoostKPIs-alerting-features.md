@@ -9,13 +9,15 @@ toc: false
 
 This post will help introduce you to several of the anomaly alerting features BoostKPI offers.
 
-BoostKPI is designed to dive-in and analyze your high dimensional data. A dimension is a collection of dimension values a data point can have, often a dimension is the name of a text database column and the dimension values are the values in that column. A KPI, or key performance indicator, is a numeric value of interest for your timepoints. Often a KPI corresponds to the name of a numeric database column, but sometimes KPIs can be derived from other KPIs.
+BoostKPI is designed to dive-in and analyze your high dimensional data. A dimension is the name of a collection of values a data point can have, often a dimension is the column name of a text or string field in your database and the dimension values are the values in that column. A KPI, or key performance indicator, is a numeric value of interest for your timepoints. Often a KPI corresponds to the name of a numeric database column, but sometimes KPIs can be derived from other KPIs, e.g, average order value is derived from total revenue and number of orders.
 
 An anomaly is a time period where a KPI value has an unusual deviation. BoostKPI has several ways of configuring anomaly detections to help you identify the most meaningful and actionable anomalies. A detection searches for one or more anomaly type and then optionally applies filters to remove anomalies that are not important.
 
+In a follow-up post, we show example alert configurations that you might find useful [here]({% post_url 2022-08-04-Sample-alerting-configurations %}).
+
 #### An example dataset
 
-We will use the following example dataset to help demonstrate example uses of BoostKPI's alerting features.
+We will use the following example dataset to help demonstrate a few uses of BoostKPI's alerting features.
 
 | Time               | Country | Operating system | Spend  | Clicks |
 | :----------------- | :------ | :--------------- | :----- | :----- |
@@ -146,3 +148,4 @@ When business goals are complicated, more sophisticated detection rules are need
 #### Offset options
 
 When comparing to past data such as when detecting percentage change anomalies, BoostKPI supports a variety of offsets. The simplest options are basic time based offsets such as comparing the current time point to the time point from one hour, day, or week ago, but we also support more complex offsets like comparing to the mean of the last seven days, median of the last four weeks, or maximum of the last month.
+
