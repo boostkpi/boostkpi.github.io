@@ -7,7 +7,7 @@ beforetoc: ""
 toc: false
 ---
 
-Currently, BoostKPI uses yaml files to configure alerts. In this section, we include some example configuration files. While we are working on moving towards a better user experience, these examples are intended to help you create new alerts or edit previous ones in the short term. If you have any questions about options not shown here or extending these examples to your use case, please do not hesitate to reach out.
+Currently, BoostKPI uses yaml files to configure alerts. In a [previous post, we provided an overview of the alert configurations] ({%post_url 2022-01-06-BoostKPIs-alerting-features %}) BoostKPI provides. In this section, we include some example configuration files. While we are working on moving towards a better user experience, these examples are intended to help you create new alerts or edit previous ones in the short term. If you have any questions about options not shown here or extending these examples to your use case, please do not hesitate to reach out.
 
 The detection and subscription examples below use general names throughout. When building your own alert, update naming appropriately; application is your company's domain, metric is the KPI you want to monitor, and dataset is the dataset containing that metric. For example, if your company's domain is "widget_co" and you want to monitor "revenue" in your "sales_data" dataset. Then you would replace:
 
@@ -61,7 +61,7 @@ rules:
     windowSize: 1
 ```
 
-A rolling detection that looks at percentage changes over the past seven days 
+A rolling detection that looks at percentage changes over the past seven days
 
 ```
 detectionName: 'rolling_7_days_percentage_change'
@@ -69,7 +69,7 @@ description: 'This is a rolling detection executed daily that looks at the perce
 
 metric: metric
 dataset: application.dataset
-  
+
 rules:
 - detection:
   - name: detection_rule_1
@@ -88,7 +88,7 @@ rules:
 
 # By defauly alerts are merged, e.g., if a daily detection finds an anomaly on Monday and Tuesday in the same slice of data,
 # the Monday and Tuesday anomalies will be merged. This behavior helps cut down on spam when you are already aware of an issue.
-# However with rolling alerts, even if the anomalies start multiple days apart, they can still overlap. So merging can hide 
+# However with rolling alerts, even if the anomalies start multiple days apart, they can still overlap. So merging can hide
 # meaningful alerts and we recommend disabling merging for rolling alerts.
 merger:
   enableMerging: false
@@ -137,7 +137,7 @@ rules:
     windowSize: 1
 ```
 
-A rolling detection that looks at percentage changes over the past seven days 
+A rolling detection that looks at percentage changes over the past seven days
 
 ```
 detectionName: 'rolling_7_days_percentage_change'
@@ -145,7 +145,7 @@ description: 'This is a rolling detection executed daily that looks at the perce
 
 metric: metric
 dataset: application.dataset
-  
+
 rules:
 - detection:
   - name: detection_rule_1
@@ -164,7 +164,7 @@ rules:
 
 # By defauly alerts are merged, e.g., if a daily detection finds an anomaly on Monday and Tuesday in the same slice of data,
 # the Monday and Tuesday anomalies will be merged. This behavior helps cut down on spam when you are already aware of an issue.
-# However with rolling alerts, even if the anomalies start multiple days apart, they can still overlap. So merging can hide 
+# However with rolling alerts, even if the anomalies start multiple days apart, they can still overlap. So merging can hide
 # meaningful alerts and we recommend disabling merging for rolling alerts.
 merger:
   enableMerging: false
