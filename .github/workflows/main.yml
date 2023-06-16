@@ -19,7 +19,7 @@ jobs:
       id: sitemap
       uses: cicirello/generate-sitemap@v1
       with:
-        base-url-path: https://blog.boostkpi.com
+        base-url-path: https://github.com/boostkpi/boostkpi.github.io/blob/master
         include-html: false
         additional-extensions: md
 
