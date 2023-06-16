@@ -20,6 +20,8 @@ jobs:
       uses: cicirello/generate-sitemap@v1
       with:
         base-url-path: https://blog.boostkpi.com
+        include-html: false
+        additional-extensions: md
 
     - name: Output stats
       run: |
