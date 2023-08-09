@@ -39,7 +39,7 @@ For engineering driven teams, you can use the reporting APIs these tools offer t
 
 ### **3. Joining LTV and CAC Data for Deeper Insights**
 
-With your advertising data centralized, it's time to derive actionable insights. To do so, it is important to not just look at your Lifetime Value (LTV) in isolation but also compare it to your Customer Acquistion Cost (CAC) at a granular level. [See here for details.] (https://blog.boostkpi.com/Driving-efficient-growth/)
+With your advertising data centralized, it's time to derive actionable insights. To do so, it is important to not just look at your Lifetime Value (LTV) in isolation but also compare it to your Customer Acquistion Cost (CAC) at a granular level. [See here for details.](https://blog.boostkpi.com/Driving-efficient-growth/)
 
 - **Merging Data**: Use SQL commands to merge Lifetime Value (LTV) with Customer Acquisition Cost (CAC) data.
 
@@ -47,7 +47,7 @@ With your advertising data centralized, it's time to derive actionable insights.
 
 ### **4. Exposing Data Insights with BoostKPI**
 
-Once your data is ready, tools like [BoostKPI[ (https://www.boostkpi.com)] come into play:
+Once your data is ready, tools like [BoostKPI](https://www.boostkpi.com)] come into play:
 
 - **Advanced Analytics**: Dive deep into metrics to understand the performance of each channel, campaign, or creative.
 
