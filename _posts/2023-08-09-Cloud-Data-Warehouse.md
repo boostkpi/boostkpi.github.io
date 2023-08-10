@@ -53,7 +53,7 @@ With your advertising data centralized, it's time to derive actionable insights.
 
 ### **5. Exposing Data Insights with BoostKPI**
 
-Once your data is ready, tools like [BoostKPI](https://www.boostkpi.com)] come into play:
+Once your data is ready, tools like [BoostKPI](https://www.boostkpi.com) come into play:
 
 - **Advanced Analytics**: Dive deep into metrics to understand the performance of each channel, campaign, or creative.
 
