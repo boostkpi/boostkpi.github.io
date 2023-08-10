@@ -2,7 +2,7 @@
 layout: post
 title:  "The Modern Data Stack: How Cloud Data Warehouses Empower Organizations"
 categories: [ Overview ]
-image: assets/images/Boostkpi-overview.png
+image: assets/images/cdw.png
 beforetoc: ""
 toc: false
 ---
@@ -23,7 +23,13 @@ Cloud Data Warehouses (CDW) like BigQuery, Snowflake, Databricks, or Redshift ha
 
 - **Flexibility**: They support multiple data formats, making integration from diverse sources effortless.
 
-### **2. Bringing Advertising Data into the Mix**
+### **2. Push Storefront Data into CDW**
+For organizations that use a storefront like Shopify or WooCommerce, you can use tools like StitchData to push your revenue data into a CDW. This data can consists of your sales funnel, broken down by various dimensions, like geography, platform (iOS, Android, Desktop windows,or Desktop Chrome), platform version, or user segments (returning vs new users, household income etc).
+
+For other organizations that maintain their own storefronts, they can push their data into a CDW after aggregating it.
+
+
+### **3. Bringing Advertising Data into the Mix**
 
 Platforms like Facebook Ads and Google Ads offer valuable insights into customer behavior, but sifting through them separately can be cumbersome. Enter tools like:
 
@@ -37,7 +43,7 @@ These tools streamline the process, making it straightforward to consolidate and
 
 For engineering driven teams, you can use the reporting APIs these tools offer to download the data to a cloud data warehouse. Wish and many other large advertisers use this approach.
 
-### **3. Joining LTV and CAC Data for Deeper Insights**
+### **4. Joining LTV and CAC Data for Deeper Insights**
 
 With your advertising data centralized, it's time to derive actionable insights. To do so, it is important to not just look at your Lifetime Value (LTV) in isolation but also compare it to your Customer Acquistion Cost (CAC) at a granular level. [See here for details.](https://blog.boostkpi.com/Driving-efficient-growth/)
 
@@ -45,7 +51,7 @@ With your advertising data centralized, it's time to derive actionable insights.
 
 - **Segmentation**: Segment the joined data by channel (e.g., Facebook, Google), by specific campaigns, geographies (country, state, DMA), or even by creative designs used in ads.
 
-### **4. Exposing Data Insights with BoostKPI**
+### **5. Exposing Data Insights with BoostKPI**
 
 Once your data is ready, tools like [BoostKPI](https://www.boostkpi.com)] come into play:
 
@@ -55,7 +61,7 @@ Once your data is ready, tools like [BoostKPI](https://www.boostkpi.com)] come i
 
 - **Visualization**: Convert complex data into understandable visuals, making it easier for stakeholders to interpret results.
 
-### **5. Conclusion: The Power of the Modern Data Stack**
+### **6. Conclusion: The Power of the Modern Data Stack**
 
 With a CDW at the core and the integration of specialized tools like StitchData, Supermetrics, and BoostKPI, organizations are in a better position than ever to understand their customers, optimize their marketing strategies, and drive growth. The modern data stack isn't just about collecting data—it's about turning that data into meaningful, actionable insights that can drive a company forward.
 
