@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Startup Journey with your spouse"
+title:  "Startup journey with your spouse"
 categories: [ Overview ]
 image: assets/images/boostKPI_logo.svg
 beforetoc: ""
