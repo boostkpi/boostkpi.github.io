@@ -14,12 +14,13 @@ Enter our newly introduced KPI-heatmap feature, a tool designed to untangle such
 
 ## Illustrative Video
 
-Switching the dropdown from *percentage change* to *change-in-contribution* unveils the relative change, offering a nuanced understanding of your revenue dynamics. [The illustrative video](https://www.youtube.com/watch?v=DCMhL-zGn5I) showcases how effortlessly you can pinpoint what propelled the revenue increase. In the video, *revenue* is the product of *AOV* (Average Order Value) and *orders*. *Orders* in turn is a product of *view products* and *order conversion*.  The key steps in the video are:
-- Look at all KPIs broken down by *continent*.
-- Change dimension dropdown to *channel*.
-- Notice that *android* *revenue* is up by 42%. Look below to see that most of the increase is coming from an increase in *orders*.
+Switching the dropdown from *percentage change* to *change-in-contribution* unveils the relative change, offering a nuanced understanding of your revenue dynamics. [The illustrative video](https://www.youtube.com/watch?v=18SxeqDdXXE) showcases how effortlessly you can pinpoint what propelled the revenue increase. In the video, *revenue* is the product of *AOV* (Average Order Value) and *orders*. *Orders* in turn is a product of *view products* and *order conversion*.  The key steps in the video are:
+- Imagine a user is looking at the Dimension Heatmap for *revenue* and wondering what drove the 42% increase in revenue for *android*.
+- Click on the *channel* link in the Dimension Heatmap.
+- Hover on the *android* cell. All the *android* cells are highlighted. Look below to see that most of the increase is coming from an increase in *orders*.
 - *Orders* in turn increased mostly due to an increase in *view products*, with a negligible increase in *order conversion*.
 - Change color heatmap dropdown to *change-in-contribution* to see the relative increase across channels. Relative to other channels, *view products* for *android* has weakened whereas the *order conversion* for *android* has strengthened.
+- Change the dimension dropdown to *continent* to repeat the analysis for different continents.
 
 ## Application to Other Verticals Beyond D2C
 
