@@ -7,8 +7,6 @@ beforetoc: ""
 toc: false
 ---
 
-# Why the LTV to CAC Ratio is Crucial and How BoostKPI Helps You Master It
-
 If you're running a consumer startup, you've probably heard about the LTV to CAC ratio. It's one of the most important metrics for businesses to understand and optimize.
 
 ## What is the LTV to CAC Ratio?
