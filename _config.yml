@@ -1,7 +1,7 @@
 # Site
 name: "BoostKPI"
 title: "BoostKPI Blog"
-description: "Boost KPI articles and blog"
+description: "BoostKPI articles and blog"
 logo: 'assets/images/boostkpi-logo-1.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -16,20 +16,12 @@ default_url: https://www.boostkpi.com
 # Authors
 authors:
   sal:
-    name: Amit
+    name: Amit Manjhi
     display_name: Amit
     avatar: 'assets/images/avatar-sal.png'
     email: amit@boostkpi.com
     web: https://www.boostkpi.com
-    twitter:
-    description: ""
-  john:
-    name: Kishore
-    display_name: Kishore
-    avatar: 'assets/images/avatar.png'
-    email: kishore@boostkpi.com
-    web: https://www.boostkpi.com
-    twitter:
+    twitter: https://twitter.com/boostkpi
     description: ""
 
 url: "https://blog.boostkpi.com"
