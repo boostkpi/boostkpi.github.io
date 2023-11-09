@@ -39,3 +39,4 @@ jobs:
         commit-message: "Automated sitemap update."
         branch: create-pull-request/sitemap
         delete-branch: true
+
