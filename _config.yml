@@ -11,6 +11,7 @@ mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 email: contact@boostkpi.com
+default_url: https://www.boostkpi.com
 
 # Authors
 authors:
