@@ -32,6 +32,7 @@ authors:
     twitter:
     description: ""
 
+url: "https://blog.boostkpi.com"
 # Plugins
 plugins:
   - jekyll-paginate
