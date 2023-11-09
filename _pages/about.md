@@ -3,7 +3,6 @@ layout: page
 title: BoostKPI blog 
 permalink: /about
 comments: false
-image: assets/images/boostkpi_logo.svg
 imageshadow: true
 ---
 
