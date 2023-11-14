@@ -113,7 +113,7 @@
         {% unless page.url == '/' %}
         <div class="d-inline-flex m-2">
             <a class="equalize" href="{{site.baseurl}}{{next.url}}" title="next Post: {{next.title}}">
-                <span>Next page →</span>
+                <span>Next post →</span>
             </a>
         </div>
         {% endunless %}
@@ -128,13 +128,13 @@
     <div class="d-flex m-4 justify-content-between">
         <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="Previous Post: {{previous.title}}">
             <div>
-                <h6> ← Previous Project </h6>
+                <h6> ← Previous post </h6>
                 <h4> {{previous.title}} </h4>
             </div>
         </a>
         <a class="equalize" href="{{site.baseurl}}{{next.url}}" title="next Post: {{next.title}}">
             <div>
-                <h6> Next page →</h6>
+                <h6> Next post →</h6>
                 <h4> {{next.title}}</h4>
             </div>
         </a>
