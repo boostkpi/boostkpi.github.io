@@ -14,7 +14,6 @@ In the fast-paced digital economy, businesses constantly seek innovative tools t
 ## Tackling Operational and Marketing Challenges
 
 1. **Dark Mode Installation Drop**: Soon after an insuretech company launched an android update, BoostKPI alerted them of a significant drop in the signup rate, which was limited to certain Samsung devices, in the just-released Android app version. All of this was done without them ever setting up a custom alert. The overall signup rate had not moved much but the signup rate in this segment had plummeted. It turned out that their recent Android update added a "Dark mode", and the signup button was not clearly visible when the app was in the dark mode. This bug had escaped this 200-person company's QA team as well.
-
 Soon after BoostKPI alerted them, the company stopped pushing the android update. Without BoostKPI, it might have taken them weeks to notice the problem, as it only occurred on a fraction of android devices. Based on their marketing spend, BoostKPI stopped them from wasting over half a million dollars driving downloads that would not result in signups.
 
 2. **Detecting Fraudulent Merchants**: An e-commerce platform wished for the capability to identify fraudulent merchants from day one. Utilizing BoostKPI's advanced fraud detection algorithms, the platform could flag suspicious activities early, protecting its reputation and ensuring customer trust.
