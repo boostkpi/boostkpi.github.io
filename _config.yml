@@ -13,6 +13,28 @@ permalink: /:title/
 email: contact@boostkpi.com
 default_url: https://www.boostkpi.com
 
+# Exclude pages from sitemap
+defaults:
+  - scope:
+      path: '_pages/about.md'
+    values:
+      sitemap: false
+  - scope:
+      path: '_pages/contact.md'
+    values:
+      sitemap: false
+  - scope:
+      path: '_pages/categories.md'
+    values:
+      sitemap: false
+  - scope:
+      path: '_pages/authors.html'
+    values:
+      sitemap: false
+  - scope:
+      path: '_pages/tags.md'
+    values:
+      sitemap: false
 # Authors
 authors:
   sal:
