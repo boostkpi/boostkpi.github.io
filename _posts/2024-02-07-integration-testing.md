@@ -2,6 +2,7 @@
 layout: post
 title:  "Lessons from Application Testing"
 categories: [ Overview ]
+alt: 'Dall-E BoostKPI Integration testing image'
 image: assets/images/dall_e_boostkpi_integration_testing.webp
 beforetoc: ""
 toc: false
