@@ -2,7 +2,7 @@
 layout: post
 title:  "Lessons from Application Testing"
 categories: [ Overview ]
-alt: 'Dall-E generated image. BoostKPI as Integration Testing'
+alt: 'Dall-E generated image. BoostKPI for Integration Testing'
 image: assets/images/dall_e_boostkpi_integration_testing.webp
 beforetoc: ""
 toc: false
