@@ -3,7 +3,7 @@ layout: post
 title:  "BoostKPI's impact on Business"
 categories: [ Overview ]
 image: assets/images/dall_e_boostkpi_business_impact.webp
-alt: 'Dall-E generated image. BoostKPI's impact on Business'
+alt: "Dall-E generated image. BoostKPI's impact on Busines"
 beforetoc: ""
 toc: false
 ---
