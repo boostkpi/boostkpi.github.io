@@ -3,6 +3,7 @@ layout: post
 title:  "Why the LTV to CAC Ratio is Crucial and How BoostKPI Helps You Master It"
 categories: [ Overview ]
 image: assets/images/business-decisions-amico.svg
+alt: "Mastering the LTV to CAC Ratio with BoostKPI. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---

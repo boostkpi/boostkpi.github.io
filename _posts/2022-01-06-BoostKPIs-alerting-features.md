@@ -3,6 +3,7 @@ layout: post
 title:  "BoostKPI's alerting features"
 categories: [ Overview ]
 image: assets/images/Warning-rafiki.svg
+alt: "Alerting features. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---
@@ -46,7 +47,7 @@ A percentage change anomaly occurs when a KPI value deviates by a configurable p
 
 ##### Example use
 
-- As our example company grows, a fixed rise of 100 in "Spend" may not be as notable. Switching to detect percentage change anomalies in "Spend" could be more interesting. 
+- As our example company grows, a fixed rise of 100 in "Spend" may not be as notable. Switching to detect percentage change anomalies in "Spend" could be more interesting.
 
 #### 3. Threshold
 
@@ -55,11 +56,11 @@ A threshold anomaly is when a KPI value exceeds a defined absolute threshold. Th
 ##### Example use
 
 - We can detect if "Clicks" drops below 50 for any "Country" value to make sure our ad campaigns are reaching real users.
-- To make sure we are being cost effective, we can detect if "Cost per click" ever exceeds 1. 
+- To make sure we are being cost effective, we can detect if "Cost per click" ever exceeds 1.
 
 #### 4. Mean-variance
 
-To detect a mean-variance anomaly, we examine historical changes in your data and label time points as anomalous when they are unexpectedly high or low based on the mean and standard deviation of the historical changes. 
+To detect a mean-variance anomaly, we examine historical changes in your data and label time points as anomalous when they are unexpectedly high or low based on the mean and standard deviation of the historical changes.
 
 Mean-variance anomalies are useful when trying to find anomalies in noisy data. Our previous anomaly types are not sensitive to past data outside of the comparison offset. Mean-variance anomalies take into account how your data has been changing and will be more robust to seasonalities.
 
@@ -148,4 +149,3 @@ When business goals are complicated, more sophisticated detection rules are need
 #### Offset options
 
 When comparing to past data such as when detecting percentage change anomalies, BoostKPI supports a variety of offsets. The simplest options are basic time based offsets such as comparing the current time point to the time point from one hour, day, or week ago, but we also support more complex offsets like comparing to the mean of the last seven days, median of the last four weeks, or maximum of the last month.
-

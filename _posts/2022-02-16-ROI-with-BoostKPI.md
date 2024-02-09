@@ -3,6 +3,7 @@ layout: post
 title:  "ROI with BoostKPI"
 categories: [ Overview ]
 image: assets/images/roi-markus-spiske-unsplash.jpg
+alt: "ROI with BoostKPI. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---

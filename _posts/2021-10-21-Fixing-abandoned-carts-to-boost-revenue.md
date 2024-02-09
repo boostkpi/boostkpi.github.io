@@ -3,6 +3,7 @@ layout: post
 title:  "Fixing abandoned carts to boost revenue"
 categories: [ Overview ]
 image: assets/images/Add-to-cart.png
+alt: "Abandoned shopping carts. Business Illustrations by StorySet"
 beforetoc: ""
 toc: true
 ---
@@ -16,7 +17,7 @@ According to published reports, there were more than 2 billion total digital sho
 
 More often than we would like to admit, aggregate and average KPIs obscure granular conversion drops. Monitoring at the micro-level as customers move through the checkout process can assist teams in identifying patterns in the shopping funnel where users tend to drop off, often revealing previously unknown insights or triggering a warning for revenue teams before the problem becomes massive.
 
-> BoostKPI automates the mammoth task of micro-level monitoring of checkout funnel data. 
+> BoostKPI automates the mammoth task of micro-level monitoring of checkout funnel data.
 
 Once operational, the tool tracks each of the events in the checkout funnel- view product, add to cart, check out started, payment initiated, shipping info, payment processed, order submitted across all product categories, marketing campaigns, customer demography, geographic location, seasonality, device type – at granularity that can easily exceeds millions of combinations. Without running any customized reports, or manually digging through the data, BoostKPI automatically alerts your team if it detects a statistically significant or meaningful anomaly in the conversion rate. It identifies key trends and isolates segments (combination of dimensions) within your data that are contributing to change in conversions rate on that day, that month or that year, all within seconds.
 
@@ -27,4 +28,3 @@ References:
 1. https://www.statista.com/topics/871/online-shopping/#dossierKeyfigures
 2. https://www.digitalcommerce360.com/article/us-ecommerce-sales/
 3. https://baymard.com/lists/cart-abandonment-rate
-

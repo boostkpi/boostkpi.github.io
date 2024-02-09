@@ -3,6 +3,7 @@ layout: post
 title:  "Ad Exchange Use Case"
 categories: [ Overview ]
 image: assets/images/analysis-amico.svg
+alt: "Ad Exchange Use Cases. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---

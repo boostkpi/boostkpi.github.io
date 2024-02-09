@@ -3,6 +3,7 @@ layout: post
 title:  "The Modern Data Stack: How Cloud Data Warehouses Empower Organizations"
 categories: [ Overview ]
 image: assets/images/cdw.png
+alt: "BoostKPI leveraging Cloud Data Warehouse for Empowering Organizations"
 beforetoc: ""
 toc: false
 ---
@@ -53,7 +54,7 @@ With your advertising data centralized, it's time to derive actionable insights.
 
 ### **5. Exposing Data Insights with BoostKPI**
 
-Once your data is ready, tools like [BoostKPI](https://www.boostkpi.com) come into play:
+Once your data is ready, tools like [BoostKPI](https://boostkpi.com) come into play:
 
 - **Advanced Analytics**: Dive deep into metrics to understand the performance of each channel, campaign, or creative.
 

@@ -10,14 +10,5 @@
          src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}"
          alt="{% if page.alt %}{{page.alt}}{% else %}{{page.title}}{% endif %}">
     {% endif %}
-    {% if page.image == "assets/images/cdw.png" %}
-    {% elsif page.image == "assets/images/boostkpi_bfcm.png" %}
-    {% elsif page.image == "assets/images/boostKPI_logo.svg" %}
-    {% elsif page.image == "assets/images/KPI_heatmap_feature.png" %}
-    {% elsif page.image == "assets/images/Backpacking_2023_route_map.jpg" %}
-    {% elsif page.image == "assets/images/llm_orchestrator.jpg" %}
-    {% else %}
-    <a class="annotation-image" href="https://storyset.com/business">Business illustrations by Storyset</a>
-    {% endif %}
 </div>
 {% endif %}

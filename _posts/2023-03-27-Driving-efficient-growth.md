@@ -3,6 +3,7 @@ layout: post
 title:  "A Data Driven Approach for Efficient Performance Marketing"
 categories: [ Overview ]
 image: assets/images/business-decisions-amico.svg
+alt: "A Data Driven Approach for Efficient Performance Marketing. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---

@@ -3,6 +3,7 @@ layout: post
 title:  "Backpacking and Entrepreneurship"
 categories: [ Overview ]
 image: assets/images/Backpacking_2023_route_map.jpg
+alt: "Yosemite Backpacking Route Map"
 beforetoc: ""
 toc: false
 ---

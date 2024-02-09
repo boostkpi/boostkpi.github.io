@@ -3,6 +3,7 @@ layout: post
 title:  "The Orchestration Role of Large Language Models"
 categories: [ Overview ]
 image: assets/images/llm_orchestrator.jpg
+alt: "AI Generated Image. The Orchestration Role of Large Language Models"
 beforetoc: ""
 toc: false
 ---
@@ -20,7 +21,7 @@ The benefits of this approach are multifold:
 * Customization: Different tasks may require different types of data processing. LLMs can tailor the AI's response by selecting the model that best fits the user's needs.
 
 ## Implementation in Real-World Scenarios
-The [BoostKPI](https://www.boostkpi.com) team is trying out this orchestration approach. Here is an [illustrative video](https://www.youtube.com/watch?v=KVP3-WwN6Dc) of how a user can use a chat interface (powered by a LLM) to ask questions about revenue. In some cases, the LLM generates SQL queries, taking context and history into account, to answer the question. In other cases, it can use BoostKPI’s custom built data visualization tools such as the drilldown table which highlights segments that drove most of the revenue increase.
+The [BoostKPI](https://boostkpi.com) team is trying out this orchestration approach. Here is an [illustrative video](https://www.youtube.com/watch?v=KVP3-WwN6Dc) of how a user can use a chat interface (powered by a LLM) to ask questions about revenue. In some cases, the LLM generates SQL queries, taking context and history into account, to answer the question. In other cases, it can use BoostKPI’s custom built data visualization tools such as the drilldown table which highlights segments that drove most of the revenue increase.
 
 ## The Path Forward
 Tying all the in-house tools via LLMs is challenging. It requires sophisticated algorithms to decide which models to use and when. It also requires a seamless integration of different machine learning systems, each with its data sources and update cycles. Despite these challenges, the user benefits are too significant to ignore.

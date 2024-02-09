@@ -3,6 +3,7 @@ layout: post
 title:  "Startup journey with your spouse"
 categories: [ Overview ]
 image: assets/images/dall_e_startup_with_spouse.webp
+alt: "Dall-E "
 beforetoc: ""
 toc: false
 ---

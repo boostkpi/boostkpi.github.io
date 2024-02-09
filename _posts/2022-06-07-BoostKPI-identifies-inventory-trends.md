@@ -3,6 +3,7 @@ layout: post
 title:  "BoostKPI identifies inventory trends so you never have to slash profit margin"
 categories: [ Overview ]
 image: assets/images/inventory-trends-unsplash.jpg
+alt: "Identify inventory trends with BoostKPI. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---
@@ -17,4 +18,4 @@ The point here is not that we can accurately predict our consumers' spending hab
 
 BoostKPI is the next generation ML based no-code analytics tool to slice and dice your data at all levels of granularity. It proactively surfaces statistically significant and meaningful insights about your KPIs. At a fraction of the cost of the standard BI tools, BoostKPI can not only alert you on an anomalous trend in any of your KPIs but will also tell you the root-cause behind it, “the what, why and where” behind any KPI change. Think of automatically being alerted to a slow rise in dead stock of loungewear primarily in fleece category, product type -pajamas, in sizes medium and large, originating in stores located in central California for the past 2 weeks – before this trend leads to huge COGS and profit shrinkage.
 
-With a quick integration process, [BoostKPI](https://www.boostkpi.com) monitors any business KPI covering all contributing dimensions and attributes. It layers business rules and seasonality to filter dynamic trends, insights and anomalies within data segments.  BoostKPI is a step beyond data visualizations, automatically surfacing intelligence behind your data - faster, better, and at a fraction of the cost of traditional tools.
+With a quick integration process, [BoostKPI](https://boostkpi.com) monitors any business KPI covering all contributing dimensions and attributes. It layers business rules and seasonality to filter dynamic trends, insights and anomalies within data segments.  BoostKPI is a step beyond data visualizations, automatically surfacing intelligence behind your data - faster, better, and at a fraction of the cost of traditional tools.

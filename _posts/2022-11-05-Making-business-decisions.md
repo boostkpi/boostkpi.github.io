@@ -3,6 +3,7 @@ layout: post
 title:  "Making business decisions in an increasing uncertain world"
 categories: [ Overview ]
 image: assets/images/business-decisions-amico.svg
+alt: "Making business decisions in an increasing uncertain world. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---
@@ -19,7 +20,7 @@ analyzing trends. But that’s misleading. By the time a trend is established, a
 
 Organizations need new tools that can draw quick insights from vast amounts of granular data. Purely visualization tools like Tableau, Looker, Amazon QuickSight, PowerBI or SuperSet are not enough.
 
-[BoostKPI](https://www.boostkpi.com) is a leading tool for this task. It can identify emerging trends when they are in the infancy stage. Trends that are not widespread but that have enough statistical backing.
+[BoostKPI](https://boostkpi.com) is a leading tool for this task. It can identify emerging trends when they are in the infancy stage. Trends that are not widespread but that have enough statistical backing.
 Many organizations, including public and private unicorns, leverage BoostKPI in a wide variety of use cases, ranging from performance marketing,  optimizing subscription funnels, detecting user and merchant fraud, to highlighting structural changes in revenue mix.
 
-See a [product demo](https://calendly.com/boostkpi-demo/30min?) of how BoostKPI can help your organization make faster business decisions.
+Book a product demo at our website (https://boostkpi.com) to see how BoostKPI can help your organization make faster business decisions.

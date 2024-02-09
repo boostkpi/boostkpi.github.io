@@ -3,6 +3,7 @@ layout: post
 title:  "Example BoostKPI Alert Configurations"
 categories: [ Overview ]
 image: assets/images/Warning-rafiki.svg
+alt: "Example BoostKPI Alert Configurations. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---

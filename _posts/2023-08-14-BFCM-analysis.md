@@ -3,6 +3,7 @@ layout: post
 title:  "Harnessing BoostKPI for Black Friday Cyber Monday Analysis"
 categories: [ Overview ]
 image: assets/images/boostkpi_bfcm.png
+alt: "Harnessing BoostKPI for Black Friday Cyber Monday Analysis"
 beforetoc: ""
 toc: false
 ---

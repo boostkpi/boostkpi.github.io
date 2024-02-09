@@ -3,6 +3,7 @@ layout: post
 title:  "Visualizing changes in derived metrics"
 categories: [ Overview ]
 image: assets/images/Boostkpi-overview.png
+alt: "Visualizing changes in derived KPIs. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---
