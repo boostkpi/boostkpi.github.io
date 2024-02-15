@@ -7,7 +7,7 @@ alt: "Ad Exchange Use Cases. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---
->BoostKPI revolutionizes ad exchange analytics, enabling precise anomaly detection in data subsets to optimize spend and performance, ensuring high ROI and efficient ad management.
+>BoostKPI revolutionizes ad exchange analytics, enabling anomaly detection in data subsets to optimize spend and performance.
 
 Ad Exchanges are a key part of the ad tech world. They conduct real-time auctions on tens of millions of ad requests every second. These ad requests originate from millions of (mobile) apps or websites. The exchanges forward them to a subset of DSPs connected to them. (For example, a European-market focused DSP may choose to receive ad requests only from users in the EU.) The DSPs bid on these ad requests on behalf of their advertisers. The exchanges then select the ad with the highest bid that complies with the publisher rules.
 

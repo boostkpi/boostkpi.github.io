@@ -7,7 +7,7 @@ alt: "Screenshot of the KPI Heatmap"
 beforetoc: ""
 toc: false
 ---
->Unlock root-cause analysis across multiple KPIs with BoostKPI's heatmap feature. Visualize revenue drivers, from AOV to order growth, for strategic business insights.
+>Unlock root-cause analysis across multiple KPIs with BoostKPI's heatmap feature. Visualize revenue drivers, from AOV to order growth, all in one place.
 
 ## Motivation for KPI-Heatmap
 In the ever-evolving landscape of Direct-to-Consumer (D2C) commerce, understanding the driving forces behind your revenue trends is not just advantageous, but essential. As a D2C business owner, the ebbs and flows in your weekly revenue metrics are more than just numbers; they are a narrative of your business' performance and potential. When you notice an uptick in your web channel's weekly revenue, you want to know why? Was this spike a result of increased orders, or had the Average Order Value (AOV) climbed? Delving deeper, if it was the orders, was the surge driven by a rise in product views or was it the order conversion rate showing promise?

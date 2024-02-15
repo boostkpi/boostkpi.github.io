@@ -7,7 +7,7 @@ alt: "Abandoned shopping carts. Business Illustrations by StorySet"
 beforetoc: ""
 toc: true
 ---
-> To succeed in the digital marketplace, reducing latency in identifying the root-cause of your abandoned cart is a must, and gaining meaningful insights from your data to boost conversion rate goals is any data-driven company's dream.
+>Reduce latency in identifying the root-cause of your abandoned cart. Gain meaningful insights from your data to boost conversion rates.
 
 I love window shopping, and lately my loyalties have been skewed towards “e-window-shopping”; thanks to the new COVID influenced era. I have spent hours browsing through product pages, looking at their details and sometimes I even go as far as adding a few items to my cart. But why do I never finish the check-out flow? Maybe I am lazy, maybe I am cheap (quite likely) or maybe something just didn’t click for me on the website -- broken payment, price disparity, inventory sold-out, page latency, incorrect details compared to what was advertised on the ad campaign….and the list goes on.
 

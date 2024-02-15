@@ -7,7 +7,7 @@ alt: "Example BoostKPI Alert Configurations. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---
->BoostKPI simplifies alert configurations for diverse business needs, showcasing examples to enhance your monitoring strategy with effective real-time notifications.
+>BoostKPI simplifies alert configurations for diverse business needs. See examples to enhance your monitoring strategy with effective real-time notifications.
 
 Currently, BoostKPI uses yaml files to configure alerts. In a [previous post]({% post_url 2022-01-06-BoostKPIs-alerting-features %}), we provided an overview of the alert configurations  BoostKPI provides. In this blog post, we provide example configuration files for common use cases. While we are working on moving towards a better user experience, these examples are intended to help you create new alerts or edit previous ones in the short term. If you have any questions about options not shown here or extending these examples to your use case, please do not hesitate to reach out.
 

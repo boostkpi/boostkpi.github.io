@@ -7,7 +7,7 @@ alt: "ROI with BoostKPI. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---
->Maximize your ROI with BoostKPI: Save on data analysis costs, reduce dashboard scrutiny time, uncover hidden opportunities, and ensure data quality for e-commerce growth.
+>Maximize your ROI with BoostKPI. Save on data analysis costs, reduce dashboard scrutiny time, and uncover hidden opportunities.
 
 A question we often get asked is: "What ROI (Return On Investment) can we get with BoostKPI?" Let’s count the benefits BoostKPI brings. (We assume the prospective customer is an e-commerce business in San Francisco.)
 
