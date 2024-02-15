@@ -7,6 +7,7 @@ alt: "AI Generated Image. The Orchestration Role of Large Language Models"
 beforetoc: ""
 toc: false
 ---
+>BoostKPI's experiments with using LLMs as an orchestrator of specialized ML models, which enhances data freshness and scalability.
 
 Recently, I had the opportunity to witness a fireside chat between Mohak Shroff (SVP of Engineering at LinkedIn) and Kevin Scott (CTO Microsoft). Both of them agreed that LLMs like OpenAI’s GPT series and Google’s Bard  are emerging as the maestros of machine learning orchestration. These models are uniquely positioned to leverage their vast knowledge and processing capabilities to direct a symphony of more cost-optimized machine learning systems. This strategy not only ensures efficiency but also capitalizes on the freshest data to deliver precise and up-to-date answers.
 
