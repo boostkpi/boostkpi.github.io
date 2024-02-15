@@ -2,7 +2,7 @@
 layout: post
 title:  "Aggregates are misleading and averages tend to lie"
 categories: [ Overview ]
-image: assets/images/Aggregrates-are-misleading.png
+image: assets/images/Aggregates-are-misleading.webp
 alt: 'Aggregates and averages are misleading. Business Illustrations by StorySet'
 beforetoc: ""
 toc: true

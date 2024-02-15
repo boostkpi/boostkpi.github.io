@@ -2,7 +2,7 @@
 layout: post
 title:  "The Orchestration Role of Large Language Models"
 categories: [ Overview ]
-image: assets/images/llm_orchestrator.jpg
+image: assets/images/llm_orchestrator.webp
 alt: "AI Generated Image. The Orchestration Role of Large Language Models"
 beforetoc: ""
 toc: false

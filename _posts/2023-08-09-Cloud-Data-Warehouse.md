@@ -2,7 +2,7 @@
 layout: post
 title:  "The Modern Data Stack: How Cloud Data Warehouses Empower Organizations"
 categories: [ Overview ]
-image: assets/images/cdw.png
+image: assets/images/cdw.webp
 alt: "BoostKPI leveraging Cloud Data Warehouse for Empowering Organizations"
 beforetoc: ""
 toc: false

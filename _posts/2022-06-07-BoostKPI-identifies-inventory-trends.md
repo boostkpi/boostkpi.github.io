@@ -2,7 +2,7 @@
 layout: post
 title:  "BoostKPI identifies inventory trends so you never have to slash profit margin"
 categories: [ Overview ]
-image: assets/images/inventory-trends-unsplash.jpg
+image: assets/images/inventory-trends-unsplash.webp
 alt: "Identify inventory trends with BoostKPI. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
