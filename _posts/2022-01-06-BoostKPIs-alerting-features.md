@@ -28,7 +28,7 @@ We will use the following example dataset to help demonstrate a few uses of Boos
 
 This dataset represents hourly aggregated advertising data. In this example, the "Country" and "Operating system" columns are dimensions while the "Spend" and "Clicks" columns are KPIs. We can also define the derived KPI "Cost per click" as "Spend" divided by "Clicks".
 
-# Detecting anomalies
+## Detecting anomalies
 
 We support a variety of rules and methods for detecting anomalies. Many of the following rules are configurable to meet specific business requirements.
 
@@ -76,7 +76,7 @@ Holt-Winters seasonal method is a forecasting method that describes trends in da
 
 - "Clicks" has a high 24-hour seasonality; when people are asleep, they do not click on ads. So, our data can move from a high number in the middle of the day to near zero in the middle of the night. Using an absolute or percentage change filter to notice unusual KPI movement would not work well. Instead, we can use Holt-Winters to more accurately identify anomalies in this type of data.
 
-# Anomaly filters
+## Anomaly filters
 
 BoostKPI supports filtering out detected anomalies to help get you the most meaningful anomalies.
 
@@ -120,7 +120,7 @@ Occasionally, anomalies for one KPI may not be meaningful if they do not cause c
 
 - If "Spend" drops significantly and is detected as an anomaly, but "Clicks" remains unchanged, a sitewide impact filter can remove this anomaly.
 
-# Additional features
+## Additional features
 
 #### Dimension exploration and filtering
 
