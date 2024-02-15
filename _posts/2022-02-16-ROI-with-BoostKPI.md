@@ -18,4 +18,4 @@ Third, BoostKPI highlights "unknown unknowns" -- opportunities and anomalies tha
 
 Fourth, BoostKPI’s comprehensive anomaly detection helps maintain the data quality. An eCommerce customer was able to find (unexpected) null values in their data.
 
-In absolute terms, BoostKPI delivers over a million dollars in benefits. The corresponding cost for the small business is less than 10k a year, providing an ROI of over 100x. Besides ROI, BoostKPI democratizes the root-cause investigation and anomaly detection processes. By doing so, it encourages more experimentation, which compound the ROI benefits. [Contact us to Boost your KPIs.](https://www.boostkpi.com/#1#schedule)
+In absolute terms, BoostKPI delivers over a million dollars in benefits. The corresponding cost for the small business is less than 10k a year, providing an ROI of over 100x. Besides ROI, BoostKPI democratizes the root-cause investigation and anomaly detection processes. By doing so, it encourages more experimentation, which compound the ROI benefits. [Contact us to Boost your KPIs.](https://boostkpi.com/#1#schedule)

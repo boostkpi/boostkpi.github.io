@@ -21,7 +21,7 @@ More often than we would like to admit, aggregate and average KPIs obscure granu
 
 Once operational, the tool tracks each of the events in the checkout funnel- view product, add to cart, check out started, payment initiated, shipping info, payment processed, order submitted across all product categories, marketing campaigns, customer demography, geographic location, seasonality, device type – at granularity that can easily exceeds millions of combinations. Without running any customized reports, or manually digging through the data, BoostKPI automatically alerts your team if it detects a statistically significant or meaningful anomaly in the conversion rate. It identifies key trends and isolates segments (combination of dimensions) within your data that are contributing to change in conversions rate on that day, that month or that year, all within seconds.
 
-To succeed in the digital marketplace, reducing latency in identifying the root-cause of your abandoned cart is a must, and gaining meaningful insights from your data to boost conversion rate goals is any data-driven company's dream. Contact us at <a target="_blank" href="https://www.boostkpi.com" class="">www.boostkpi.com</a> to schedule a demo and let us show you how we can bring you closer to your dream.
+To succeed in the digital marketplace, reducing latency in identifying the root-cause of your abandoned cart is a must, and gaining meaningful insights from your data to boost conversion rate goals is any data-driven company's dream. Contact us at <a target="_blank" href="https://boostkpi.com" class="">boostkpi.com</a> to schedule a demo and let us show you how we can bring you closer to your dream.
 
 References:
 

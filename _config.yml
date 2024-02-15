@@ -11,7 +11,7 @@ mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 email: contact@boostkpi.com
-default_url: https://www.boostkpi.com
+default_url: https://boostkpi.com
 
 # Exclude pages from sitemap
 defaults:
@@ -42,7 +42,7 @@ authors:
     display_name: Amit
     avatar: 'assets/images/avatar-sal.png'
     email: amit@boostkpi.com
-    web: https://www.boostkpi.com
+    web: https://boostkpi.com
     twitter: https://twitter.com/boostkpi
     description: ""
 

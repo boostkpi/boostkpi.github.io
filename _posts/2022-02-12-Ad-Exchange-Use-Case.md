@@ -39,4 +39,4 @@ BoostKPI alerts the DSP account managers (AMs) as soon as an anomaly appears in 
 Doing Quarterly Business Reports (QBRs) with BoostKPI is also a breeze. AMs can compare a DSP's last quarter’s total spend against this quarter’s total spend.
 BoostKPI highlights publishers, apps, and countries that have seen significant spend changes. It even shows combinations that have seen significant spend changes. AMs can repeat the analysis for weekly or monthly data.
 
-Several big exchanges already use BoostKPI. Their AMs are more productive. Their data teams have to do less repetitive work. They don't miss any "unknown unknowns." [Contact us for a demo.](https://www.boostkpi.com/#1#schedule)
+Several big exchanges already use BoostKPI. Their AMs are more productive. Their data teams have to do less repetitive work. They don't miss any "unknown unknowns." [Contact us for a demo.](https://boostkpi.com/#1#schedule)
