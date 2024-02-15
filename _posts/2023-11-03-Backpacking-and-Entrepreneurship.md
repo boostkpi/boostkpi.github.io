@@ -7,6 +7,7 @@ alt: "Yosemite Backpacking Route Map"
 beforetoc: ""
 toc: false
 ---
+>Discover parallels between backpacking adventures and entrepreneurship: courage, resilience, and simplicity fuel both journeys towards growth and discovery.
 
 *This is re-posted from* [Amit Manjhi's](https://www.linkedin.com/in/amitmanjhi/) Oct/Nov 2023 LinkedIn posts.
 

@@ -7,6 +7,7 @@ alt: "Visualizing changes in derived KPIs. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---
+>Explore advanced heatmap visualizations for derived metrics like ROAS and CPC, understand why they are hard to analyze, and learn why BoostKPI's approach works.
 
 BoostKPI offers a heatmap visualization to data scientists, enabling them to swiftly detect significant KPI changes in granular segments during on-demand root cause investigations. In this blog post, we will delve into how our heatmap handles analyzing derived metrics like ROAS (revenue/spend) or CPC (spend / clicks) where changes in their underlying simple component metrics can have an unexpected effect on the overall derived metric. For instance, a rise in the ROAS of an underperforming ad campaign can lead to a drop in the overall ROAS if the spend for the underperforming campaign increased.
 

@@ -7,6 +7,7 @@ alt: "Dall-E "
 beforetoc: ""
 toc: false
 ---
+>Explore the unique journey of co-founding a startup with your spouse, highlighting the blend of personal and professional growth, challenges, and teamwork.
 
 *This is re-posted from* [Amit Manjhi's](https://www.linkedin.com/in/amitmanjhi/) 2022 LinkedIn post.
 

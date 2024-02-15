@@ -7,6 +7,7 @@ alt: "Making business decisions in an increasing uncertain world. Business Illus
 beforetoc: ""
 toc: false
 ---
+>Navigate business decisions in uncertainty with BoostKPI's data insights, from detecting emerging trends to optimizing strategies for competitive advantage.
 
 The covid pandemic, supply chain issues, and high inflation have increased the uncertainty in the world. To make good decisions, organizations need to examine all their data. Analyzing only a subset of data by relying on gut instinct and personal experience is dangerous. Looking at aggregates and averages is also not enough.
 

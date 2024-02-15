@@ -7,6 +7,7 @@ alt: "Mastering the LTV to CAC Ratio with BoostKPI. Business Illustrations by St
 beforetoc: ""
 toc: false
 ---
+>Master the LTV to CAC ratio with BoostKPI for sustainable growth and profitability. Discover tools for optimization and actionable insights.
 
 If you're running a consumer startup, you've probably heard about the LTV to CAC ratio. It's one of the most important metrics for businesses to understand and optimize.
 

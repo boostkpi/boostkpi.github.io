@@ -7,6 +7,7 @@ alt: "Harnessing BoostKPI for Black Friday Cyber Monday Analysis"
 beforetoc: ""
 toc: false
 ---
+>Maximize your BFCM strategy with BoostKPI's detailed analysis, from sales lift and session increases to visits, conversions, and AOV improvements for actionable insights.
 
 Black Friday Cyber Monday (BFCM) is one of the most significant retail events of the year, causing spikes in traffic, sales, and conversions. The event typically spans a period of 7 to 10 days, depending on the retailer.
 

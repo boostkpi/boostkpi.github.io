@@ -7,6 +7,7 @@ alt: "A Data Driven Approach for Efficient Performance Marketing. Business Illus
 beforetoc: ""
 toc: false
 ---
+>Discover data-driven strategies for performance marketing efficiency, focusing on optimizing ROAS across channels and customer personas for sustainable growth.
 
 Many companies struggle to drive sustainable growth because their customer acquisition cost (CAC) is a lot higher than their customer lifetime value (LTV). This ratio of LTV to CAC is ROAS (or Return on Ad Spend). When their growth was VC funded, companies could let their CAC be several times their LTV. But in the current macro climate, a good ROAS (or Return on Ad Spend) is no longer a nice to have. It is existential.
 

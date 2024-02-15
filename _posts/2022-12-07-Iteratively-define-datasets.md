@@ -7,6 +7,7 @@ alt: "Iteratively Defining Datasets in BoostKPI. Business Illustrations by Story
 beforetoc: ""
 toc: false
 ---
+>BoostKPI encourages iterative dataset definition for dynamic KPI monitoring, enabling businesses to adapt and refine metrics for enhanced decision-making.
 
 The traditional use case for BoostKPI is an organization with well-defined KPIs. Its leaders are using visualization tools like tableau and PowerBI to slice and dice the data. The utility of BoostKPI in such cases is well understood. First, business users no longer have to manually look for important changes in their business. Second, data analysts no longer need to manually slice-and-dice their data. Third, all users can receive granular alerts that are customized to their needs.
 

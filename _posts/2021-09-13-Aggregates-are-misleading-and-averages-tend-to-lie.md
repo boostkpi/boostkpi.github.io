@@ -7,8 +7,9 @@ alt: 'Aggregates and averages are misleading. Business Illustrations by StorySet
 beforetoc: ""
 toc: true
 ---
+>Discover why relying on averages and aggregates can mislead business decisions and how BoostKPI offers deeper, actionable insights beyond superficial data analysis.
 
-> Data driven businesses collect massive amounts of data today, which continues to increase exponentially. The question that often surrounds most decision makers is whether their team is actually consuming their own data in a meaningful way -- to get rich insights or timely warnings.
+Data driven businesses collect massive amounts of data today, which continues to increase exponentially. The question that often surrounds most decision makers is whether their team is actually consuming their own data in a meaningful way -- to get rich insights or timely warnings.
 
 Consider an example: a data driven company with an online presence measuring typical KPIs like revenue, views, CPC and order conversions across multiple dimensions:
 

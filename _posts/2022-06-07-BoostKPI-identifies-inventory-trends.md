@@ -7,8 +7,7 @@ alt: "Identify inventory trends with BoostKPI. Business Illustrations by StorySe
 beforetoc: ""
 toc: false
 ---
-
-> Use BoostKPI to be on top of inventory trends even when markets are volatile and customer behaviors change quickly.
+>Use BoostKPI to be on top of inventory trends even when markets are volatile and customer behaviors change quickly. Discover trends in real-time for better stock management and prevent overstock.
 
 There is no shortage of flashing news these days ([CNBC article](https://www.cnbc.com/2022/06/07/target-markdowns-plan-to-cut-inventory.html)) about how retail behemoths such as Target, Walmart, Gap, American Eagle, and others are falling short of their projected profits -- all because their inventory projections failed to meet market demand. Now, the industry is aggressively and prudently attempting to make room for a more relevant and in-demand spread of SKUs -- or what they believe is an in-demand spread...
 

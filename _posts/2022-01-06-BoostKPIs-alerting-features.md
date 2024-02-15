@@ -7,6 +7,7 @@ alt: "Alerting features. Business Illustrations by StorySet"
 beforetoc: ""
 toc: false
 ---
+>BoostKPI's alerting features enhance anomaly detection in KPIs, offering customizable alerts for precise monitoring and actionable insights in data-driven decision-making.
 
 This post will help introduce you to several of the anomaly alerting features BoostKPI offers.
 
