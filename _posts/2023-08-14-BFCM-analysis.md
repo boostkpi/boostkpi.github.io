@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Harnessing BoostKPI for Black Friday Cyber Monday Analysis"
+title:  "Black Friday Cyber Monday Analysis"
 categories: [ Overview ]
 image: assets/images/boostkpi_bfcm.webp
 alt: "Harnessing BoostKPI for Black Friday Cyber Monday Analysis"

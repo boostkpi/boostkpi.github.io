@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Data Driven Approach for Efficient Performance Marketing"
+title:  "A Data Driven Approach for ROI Marketing"
 categories: [ Overview ]
 image: assets/images/business-decisions-amico.svg
 alt: "A Data Driven Approach for Efficient Performance Marketing. Business Illustrations by StorySet"

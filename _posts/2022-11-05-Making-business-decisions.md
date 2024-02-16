@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making business decisions in an increasing uncertain world"
+title:  "Business decisions in an uncertain world"
 categories: [ Overview ]
 image: assets/images/business-decisions-amico.svg
 alt: "Making business decisions in an increasing uncertain world. Business Illustrations by StorySet"

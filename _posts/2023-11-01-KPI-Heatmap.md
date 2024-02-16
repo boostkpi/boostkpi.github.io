@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unveiling the KPI-Heatmap feature: A Gateway to Root-Cause-Analysis among KPIs"
+title: "Root-Cause-Analysis of multiple KPIs"
 categories: [ Overview ]
 image: assets/images/KPI_heatmap_feature.png
 alt: "Screenshot of the KPI Heatmap"
