@@ -2,8 +2,8 @@
 name: "BoostKPI"
 title: "BoostKPI Blog"
 description: "Explore BoostKPI Blog for cutting-edge insights on leveraging AI and data analytics to drive business growth, performance, and innovation."
-logo: 'assets/images/boostkpi-logo-1.png'
-favicon: 'assets/images/logo.png'
+logo: ''
+favicon: ''
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: ''
@@ -12,6 +12,10 @@ include: ["_pages"]
 permalink: /:title/
 email: contact@boostkpi.com
 default_url: https://boostkpi.com
+image:
+  path: 'assets/images/dall_e_boostkpi_blog.webp'
+  height: 1024
+  width: 1024
 
 # Exclude pages from sitemap
 defaults:
@@ -39,12 +43,13 @@ defaults:
 authors:
   sal:
     name: Amit Manjhi
-    display_name: Amit
+    display_name: Amit Manjhi
     avatar: 'assets/images/avatar-sal.png'
     email: amit@boostkpi.com
     web: https://boostkpi.com
     twitter: https://twitter.com/boostkpi
     description: ""
+    url: https://boostkpi.com
 
 url: "https://blog.boostkpi.com"
 # Plugins
