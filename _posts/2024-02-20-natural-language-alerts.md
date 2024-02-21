@@ -28,4 +28,5 @@ Experience the magic of natural language alerting firsthand in [our video](https
 
 *BoostKPI is at the forefront of AI-powered anomaly detection, making it easier than ever to gain actionable insights from your KPIs.* Embrace the power of natural language alerting and transform your monitoring capabilities today.
 
-*Ready to get started?* [Contact us](https://boostkpi.com) to learn more and see how BoostKPI can supercharge your anomaly detection with the power of AI and natural language.Â
+## Ready to get started?
+[Contact us](https://boostkpi.com) to learn more and see how BoostKPI can supercharge your anomaly detection with the power of AI and natural language.Â
