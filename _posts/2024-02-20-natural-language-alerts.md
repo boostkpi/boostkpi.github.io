@@ -24,7 +24,7 @@ Imagine that you have a complex anomaly you need to detect within a specific KPI
 - *Democratized Alerting*: No coding knowledge required! Anyone can create sophisticated alerts, opening up data-driven insights to a wider audience within your organization.
 
 ## Witness the Power
-Experience the magic of natural language alerting firsthand in [our video] (https://youtu.be/MjalD-IVmtU). See how users effortlessly create intricate alert configurations using natural language, and gain a glimpse into the LLM's explanatory power.
+Experience the magic of natural language alerting firsthand in [our video](https://youtu.be/MjalD-IVmtU). See how users effortlessly create intricate alert configurations using natural language, and gain a glimpse into the LLM's explanatory power.
 
 *BoostKPI is at the forefront of AI-powered anomaly detection, making it easier than ever to gain actionable insights from your KPIs.* Embrace the power of natural language alerting and transform your monitoring capabilities today.
 
