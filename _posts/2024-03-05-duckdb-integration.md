@@ -11,7 +11,7 @@ toc: false
 
 ---
 
-# Exciting News: BoostKPI Integrates with DuckDB, Supercharging Your Data Analysis!
+## BoostKPI Integrates with DuckDB, Supercharging Your Data Analysis!
 
 At BoostKPI, we are thrilled to announce our latest integration with DuckDB, an in-process SQL OLAP database management system. This powerful partnership is set to revolutionize how businesses access and analyze data, enabling users to leverage the speed and efficiency of DuckDB directly within BoostKPI.
 
