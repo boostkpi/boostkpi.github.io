@@ -7,7 +7,7 @@
             <a href="{{ site.baseurl }}{{ post.url }}">
                 {% if post.image %}
                     {% if post.image contains ".webm" %}
-                        <video autoplay="autoplay" loop="loop" width="100%">
+                        <video autoplay="autoplay" loop="loop" width="100%" muted>
                             <source src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" type="video/webm">
                             <p>{% if post.alt %}{{post.alt}}{% else %}{{post.title}}{% endif %}"</p>
                         </video>

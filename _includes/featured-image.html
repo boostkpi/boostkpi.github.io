@@ -1,7 +1,7 @@
 {% if page.image %}
 <div class="entry-featured-image">
     {% if page.image contains ".webm" %}
-        <video autoplay="autoplay" loop="loop" width="100%">
+        <video autoplay="autoplay" loop="loop" width="100%" muted>
             <source src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" type="video/webm">
             <p>{% if page.alt %}{{page.alt}}{% else %}{{page.title}}{% endif %}"</p>
         </video>
