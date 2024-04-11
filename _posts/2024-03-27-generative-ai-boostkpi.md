@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "BoostKPI's Integration with DuckDB"
+title:  "BoostKPI and Generative AI"
 categories: [ Overview ]
-alt: 'BoostKPI Integration with DuckDB'
-image: assets/images/Connect_Parquet_compressed.webm
+alt: 'The transformative power of BoostKPI in enabling companies to leverage generative AI effectively'
+image: assets/images/dall_e_boostKPI_generative_ai.webp
 beforetoc: ""
 toc: false
 ---
->Explore BoostKPI's integration with DuckDB, which allows seamless integration with your favorite cloud storages.
+>The transformative power of BoostKPI in enabling companies to leverage generative AI effectively.
 
 ---
 
@@ -19,26 +19,17 @@ In the rapidly evolving landscape of business technology, generative AI has emer
 
 A survey and interviews with over 300 CDOs and data leaders reveal a stark reality: businesses are yet to align their data strategies with the demands of generative AI. Despite recognizing its potential to transform business environments, with 80% of data leaders agreeing on its impact, a majority have not begun the crucial work of data preparation.
 
-TODO: Refer insights about data that you care about.
-TODO: Add a paragraph about Wisdom.AI and Tal. How the data is not ready.
-TODO: Refer BoostKPI's insights into what the right KPIs are.
-TODO: Refer the consultative approach.
-
-
-
 ### The Role of BoostKPI
 
 This is where BoostKPI comes into play. BoostKPI is uniquely positioned to bridge this readiness gap by offering a suite of services designed to prepare your accompanying for generative AI. Our approach focuses on three critical areas:
 
 #### 1. **Get Quick Insights about Data you care about**
 Getting quick insights about data you care about is transformative -- it can currently take hours or weeks. As Tal, the ML head of Moloco [shared](https://www.askwisdom.ai/blog/data-innovators-tal-shaked)
-```
-I think about it in terms of the amount of time it currently takes to produce data insights. Let's say we're in an exec meeting and somebody asks a question. In fact, let's say it's the CEO who asks a question. Maybe it's some metric for a specific country's users or how some metrics have been changing over the past 6 months. Those simple questions can become projects and then maybe a week later the answers come back. Then often the exec wants to dig deeper and the iterations can go on for weeks. If anybody could answer these questions on the fly it would be like magic. And it would speed everything up.
+> I think about it in terms of the amount of time it currently takes to produce data insights. Let's say we're in an exec meeting and somebody asks a question. In fact, let's say it's the CEO who asks a question. Maybe it's some metric for a specific country's users or how some metrics have been changing over the past 6 months. Those simple questions can become projects and then maybe a week later the answers come back. Then often the exec wants to dig deeper and the iterations can go on for weeks. If anybody could answer these questions on the fly it would be like magic. And it would speed everything up.
+>
+> Dashboards work ok, but they're static and provide limited capabilities for real-time iteration, especially for non-experts. If you can build dynamic dashboards that adapt to the questions being asked, that could be such an improvement.
 
-Dashboards work ok, but they're static and provide limited capabilities for real-time iteration, especially for non-experts. If you can build dynamic dashboards that adapt to the questions being asked, that could be such an improvement.
-```
-
-BoostKPI leverages generative AI's natural language interface to help you get quick insights.
+BoostKPI leverages generative AI's natural language interface to help you get quick insights. [Try out a limited version of Ada, our AI data analyst](https://blog.boostkpi.com/ada-by-boostkpi/).
 
 #### 2. **Consultative Approach**
 BoostKPI can meet our customers where they are in their data and AI journey. For startups, it can meet helping them focus on the right KPI, [as in the case of Kissht](https://boostkpi.com/case-studies/Kissht). For larger companies, we can review their entire data and AI pipeline and help get them AI ready. Integrating and managing diverse data sets is foundational for generative AI success. We can help bring all your data into a data warehouse that supports the deployment of generative AI applications across various departments, from customer support to R&D.
