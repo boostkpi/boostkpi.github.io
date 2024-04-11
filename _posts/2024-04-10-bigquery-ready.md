@@ -3,7 +3,7 @@ layout: post
 title:  "BoostKPI Achieves Google Cloud Ready - BigQuery Designation"
 categories: [ Overview ]
 alt: 'BoostKPI Achieves Google Cloud Ready - BigQuery Designation'
-image: assets/images/gc_bigquery_ready.png
+image: assets/images/gc-bigquery-ready.png
 beforetoc: ""
 toc: false
 ---
@@ -14,7 +14,7 @@ toc: false
 
 **San Francisco, April 10, 2024** — BoostKPI today announced that it has successfully achieved **Google Cloud Ready - BigQuery** Designation.
 
-[Google Cloud Ready - BigQuery](https://cloud.google.com/bigquery/docs/bigquery-ready-overview) is a partner integration validation program  that intends to increase the customer confidence in partner integrations into [BigQuery](https://cloud.google.com/bigquery). As part of this initiative, Google Cloud’s engineering teams validate partner integrations into BigQuery in a three phase process -  run a series of data integration tests and compare results against benchmarks, work closely with partners to fill any gaps and refine documentation for our mutual customers.  
+[Google Cloud Ready - BigQuery](https://cloud.google.com/bigquery/docs/bigquery-ready-overview) is a partner integration validation program  that intends to increase the customer confidence in partner integrations into [BigQuery](https://cloud.google.com/bigquery). As part of this initiative, Google Cloud’s engineering teams validate partner integrations into BigQuery in a three phase process -  run a series of data integration tests and compare results against benchmarks, work closely with partners to fill any gaps and refine documentation for our mutual customers.
 
 By earning this designation, BoostKPI has proven their product(s) have met a core set of functional and interoperability requirements when integrating with BigQuery.  This designation enables customers to discover and have confidence that the BoostKPI products they use today work well with BigQuery or save time on evaluating them, if not already using.
 
