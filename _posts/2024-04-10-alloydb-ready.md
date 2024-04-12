@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BoostKPI Achieves Google Cloud Ready - AlloyDB Designation"
+title:  "Google Cloud Ready - AlloyDB Designation"
 categories: [ Overview ]
 alt: 'BoostKPI Achieves Google Cloud Ready - AlloyDB Designation'
 image: assets/images/gc-alloydb-ready.png
@@ -10,7 +10,7 @@ toc: false
 >BoostKPI achieves Google Cloud Ready AlloyDB designation. Organizations on AlloyDB can now use the BoostKPI integration with confidence.
 
 ---
-# BoostKPI Achieves Google Cloud Ready - AlloyDB Designation  
+## BoostKPI Achieves Google Cloud Ready - AlloyDB Designation  
 
 **San Francisco, April 10, 2024** — BoostKPI today announced that it has successfully achieved **Google Cloud Ready - AlloyDB** Designation for AlloyDB for PostgreSQL, Google Cloud’s newest fully managed PostgreSQL- compatible database service for most demanding enterprise database workloads.
 

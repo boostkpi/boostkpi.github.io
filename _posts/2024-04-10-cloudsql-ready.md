@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BoostKPI Achieves Google Cloud Ready - Cloud SQL Designation"
+title:  "Google Cloud Ready - Cloud SQL Designation"
 categories: [ Overview ]
 alt: BoostKPI Achieves Google Cloud Ready - Cloud SQL Designation'
 image: assets/images/gc-cloudsql-ready.png
@@ -11,7 +11,7 @@ toc: false
 
 ---
 
-# BoostKPI Achieves Google Cloud Ready - Cloud SQL Designation  
+## BoostKPI Achieves Google Cloud Ready - Cloud SQL Designation  
 
 **San Francisco, April 10, 2024** — BoostKPI today announced that it has successfully achieved **Google Cloud Ready - Cloud SQL** Designation for Cloud SQL, Google Cloud’s Fully managed relational database service for MySQL, PostgreSQL, and SQL Server.
 

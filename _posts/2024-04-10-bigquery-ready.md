@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BoostKPI Achieves Google Cloud Ready - BigQuery Designation"
+title:  "Google Cloud Ready - BigQuery Designation"
 categories: [ Overview ]
 alt: 'BoostKPI Achieves Google Cloud Ready - BigQuery Designation'
 image: assets/images/gc-bigquery-ready.png
@@ -10,7 +10,7 @@ toc: false
 > BoostKPI achieves Google Cloud Ready BigQuery designation. Organizations on BigQuery can now use the BoostKPI integration with confidence.
 
 ---
-# BoostKPI Achieves Google Cloud Ready - BigQuery Designation  
+## BoostKPI Achieves Google Cloud Ready - BigQuery Designation  
 
 **San Francisco, April 10, 2024** — BoostKPI today announced that it has successfully achieved **Google Cloud Ready - BigQuery** Designation.
 
