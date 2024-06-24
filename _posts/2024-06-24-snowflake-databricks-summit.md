@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ""
+title:  "Snowflake and Databricks Summits 2024"
 categories: [ Overview ]
-alt: 'The Evolution of Analytical Databases: From Monoliths to Decoupled Innovation'
+alt: 'Keynotes of the Snowflake and Databricks Summits in 2024'
 image: assets/images/snowflake_databricks.jpg
 beforetoc: ""
 toc: false
@@ -10,6 +10,9 @@ toc: false
 >Recap of the key themes and announcments from the Snowflake and Databricks summits in San Francisco.
 
 ---
+
+## Snowflake and Databricks Summits 2024: A Tale of Two Data Giants
+
 In back-to-back weeks in early June, the data world converged on San Francisco's Moscone Center for the Snowflake and Databricks Summits. These events showcased the rapid evolution of data platforms and the fierce competition between two industry leaders. Let's dive into the key themes and announcements from each summit.
 
 ### Snowflake Summit: Unifying the Data Ecosystem
