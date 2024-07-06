@@ -3,7 +3,7 @@ layout: post
 title:  "The AI-Powered Data Analyst: Revolutionizing Business Intelligence"
 categories: [ Overview ]
 alt: 'Dall-E generated image for the AI-Powered Data Analyst'
-image: assets/images/
+image: assets/images/dall_e_ai_data_analyst.webp
 beforetoc: ""
 toc: false
 ---
