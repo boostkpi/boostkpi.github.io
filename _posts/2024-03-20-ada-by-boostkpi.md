@@ -31,7 +31,7 @@ Ada is distinguished by its:
 
 ### Experience Ada Today
 
-Ada's integration with GPT makes it accessible for anyone wishing to explore its capabilities. You can try out a limited version of Ada by visiting the [GPT store](https://chat.openai.com/g/g-sKhLpMfeg-ada-from-boostkpi). Simply upload a CSV file or use one of the demo datasets to get started. For detailed guidance, check out the [Ada Guide](https://docs.boostkpi.com/docs/ada-guide/). Here is an [illustrative video](https://www.youtube.com/watch?v=tNwRq0_3Dio) of how you can leverage Ada. Furthermore, for those looking for a tailored solution, BoostKPI offers a free POC at their [website](https://boostkpi.com). Ada seamlessly integrates with several data warehouses, including Amazon RedShift, Google BigQuery, Databricks, and Snowflake, making it a versatile and powerful tool for any business.
+Ada's integration with GPT makes it accessible for anyone wishing to explore its capabilities. You can try out a limited version of Ada by visiting the [GPT store](https://chatgpt.com/g/g-sKhLpMfeg-ada-from-boostkpi). Simply upload a CSV file or use one of the demo datasets to get started. For detailed guidance, check out the [Ada Guide](https://docs.boostkpi.com/docs/ada-guide/). Here is an [illustrative video](https://www.youtube.com/watch?v=tNwRq0_3Dio) of how you can leverage Ada. Furthermore, for those looking for a tailored solution, BoostKPI offers a free POC at their [website](https://boostkpi.com). Ada seamlessly integrates with several data warehouses, including Amazon RedShift, Google BigQuery, Databricks, and Snowflake, making it a versatile and powerful tool for any business.
 
 Jump on the Ada bandwagon with us and discover why it’s the must-have tool for your business!
 
